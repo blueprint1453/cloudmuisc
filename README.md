@@ -1,0 +1,2 @@
+# cloudmuisc
+一个音乐webapp,采用了网上提供的api接口，特别感谢Binaryify提供的api，写这个项目仅仅是个人兴趣和学习之用，并无商业或任何其他利益
